@@ -13,6 +13,12 @@ namespace ConsoleApp5
             {
                 try
                 {
+                    var data = int.Parse(Console.ReadLine());
+                    Console.WriteLine("salam");
+                    Console.ReadLine();
+                    data = int.Parse(Console.ReadLine());
+                    Console.WriteLine("salam");
+                    Console.ReadLine();
                     data = int.Parse(Console.ReadLine());
                     Console.WriteLine("salam");
                     Console.ReadLine();
