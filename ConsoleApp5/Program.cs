@@ -6,19 +6,15 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
-           var name = Console.ReadLine();
-            int a=Convert.ToInt32(name);
-            var name1 = "dana";
-            char dat=Convert.ToChar(name1);
-            Console.WriteLine(dat);
-            int number=10;
-            int data;
+           var name = "Elnur";
+           String lastName = "Maharramov";
             while (true)
             {
                 try
                 {
                     data = int.Parse(Console.ReadLine());
-                    Console.WriteLine("salam")
+                    Console.WriteLine("salam");
+                    Console.ReadLine();
                     break;
                 }
                 catch (Exception)
