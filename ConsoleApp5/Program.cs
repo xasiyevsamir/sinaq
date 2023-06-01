@@ -9,22 +9,58 @@ namespace ConsoleApp5
         {
            var name = "Elnur";
            String lastName = "Maharramov";
+           int a = 5;
             while (true)
             {
                 try
                 {
-                    data = int.Parse(Console.ReadLine());
+
+                   var data = int.Parse(Console.ReadLine());
                     Console.WriteLine("salam");
+
+                    data = int.Parse(Console.ReadLine());
+                    Console.WriteLine("sagol getdik");
+
+                    Console.ReadLine();
+                    Console.ReadLine();
                     Console.ReadLine();
 
                     break;
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("duzgun daxil edin !");
+                     System.Console.WriteLine("saalaaaaamma");
+                     System.Console.WriteLine("saalaaaaamma");
+                     System.Console.WriteLine("saalaaaaamma");
+                     System.Console.WriteLine("saalaaaaamma");
+                     Console.WriteLine("duzgun daxil edin !");
                 }
             }
+
+            Console.WriteLine("salam");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+
             Console.WriteLine("samir");
+            Console.WriteLine("samir");
+            
+            Console.WriteLine("samir");
+            Console.WriteLine("main branch deyisirik");
+            Console.WriteLine("main branch deyisirik");
+            Console.WriteLine("main branch deyisirik");
+            Console.WriteLine("main branch deyisirik");
+            Console.WriteLine("main branch deyisirik");
+            Console.WriteLine("main branch deyisirik");
+            
         }
     }
 }
