@@ -60,6 +60,7 @@ namespace ConsoleApp5
             Console.WriteLine("main branch deyisirik");
             Console.WriteLine("main branch deyisirik");
             Console.WriteLine("main branch deyisirik");
+            int da=124;
             
         }
     }
