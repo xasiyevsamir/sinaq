@@ -17,12 +17,8 @@ namespace ConsoleApp5
 
                    var data = int.Parse(Console.ReadLine());
                     Console.WriteLine("salam");
-
-                    data = int.Parse(Console.ReadLine());
                     Console.WriteLine("sagol getdik");
 
-                    Console.ReadLine();
-                    Console.ReadLine();
                     Console.ReadLine();
 
                     break;
@@ -30,36 +26,18 @@ namespace ConsoleApp5
                 catch (Exception)
                 {
                      System.Console.WriteLine("saalaaaaamma");
-                     System.Console.WriteLine("saalaaaaamma");
-                     System.Console.WriteLine("saalaaaaamma");
-                     System.Console.WriteLine("saalaaaaamma");
                      Console.WriteLine("duzgun daxil edin !");
                 }
             }
 
             Console.WriteLine("salam");
             System.Console.WriteLine("saalaaaaamma");
-            System.Console.WriteLine("saalaaaaamma");
-            System.Console.WriteLine("saalaaaaamma");
-            System.Console.WriteLine("saalaaaaamma");
-            System.Console.WriteLine("saalaaaaamma");
-            System.Console.WriteLine("saalaaaaamma");
-            System.Console.WriteLine("saalaaaaamma");
-            System.Console.WriteLine("saalaaaaamma");
-            System.Console.WriteLine("saalaaaaamma");
-            System.Console.WriteLine("saalaaaaamma");
-            System.Console.WriteLine("saalaaaaamma");
 
-            Console.WriteLine("samir");
             Console.WriteLine("samir");
             
             Console.WriteLine("samir");
             Console.WriteLine("main branch deyisirik");
-            Console.WriteLine("main branch deyisirik");
-            Console.WriteLine("main branch deyisirik");
-            Console.WriteLine("main branch deyisirik");
-            Console.WriteLine("main branch deyisirik");
-            Console.WriteLine("main branch deyisirik");
+            int da=124;
             
         }
     }
