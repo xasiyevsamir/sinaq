@@ -1,4 +1,5 @@
 ﻿using System.Text;
+using System;
 
 namespace ConsoleApp5
 {
@@ -18,7 +19,7 @@ namespace ConsoleApp5
                 try
                 {
                     data = int.Parse(Console.ReadLine());
-                    Console.WriteLine("salam")
+                    Console.WriteLine("salam");
                     break;
                 }
                 catch (Exception)
@@ -26,6 +27,7 @@ namespace ConsoleApp5
                     Console.WriteLine("duzgun daxil edin !");
                 }
             }
+            Console.WriteLine("samir");
         }
     }
 }
