@@ -36,6 +36,7 @@ namespace ConsoleApp5
                      Console.WriteLine("duzgun daxil edin !");
                 }
             }
+
             Console.WriteLine("salam");
             System.Console.WriteLine("saalaaaaamma");
             System.Console.WriteLine("saalaaaaamma");
@@ -48,6 +49,18 @@ namespace ConsoleApp5
             System.Console.WriteLine("saalaaaaamma");
             System.Console.WriteLine("saalaaaaamma");
             System.Console.WriteLine("saalaaaaamma");
+
+            Console.WriteLine("samir");
+            Console.WriteLine("samir");
+            
+            Console.WriteLine("samir");
+            Console.WriteLine("main branch deyisirik");
+            Console.WriteLine("main branch deyisirik");
+            Console.WriteLine("main branch deyisirik");
+            Console.WriteLine("main branch deyisirik");
+            Console.WriteLine("main branch deyisirik");
+            Console.WriteLine("main branch deyisirik");
+            
         }
     }
 }
