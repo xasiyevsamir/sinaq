@@ -10,13 +10,17 @@ namespace ConsoleApp5
            var name = "Elnur";
            String lastName = "Maharramov";
            int a = 5;
-           String lastName = "Maharramov"
             while (true)
             {
                 try
                 {
+
                    var data = int.Parse(Console.ReadLine());
                     Console.WriteLine("salam");
+
+                    data = int.Parse(Console.ReadLine());
+                    Console.WriteLine("sagol getdik");
+
                     Console.ReadLine();
 
                     break;
