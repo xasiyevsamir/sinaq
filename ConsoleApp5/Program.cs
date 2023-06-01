@@ -8,6 +8,8 @@ namespace ConsoleApp5
         static void Main(string[] args)
         {
            var name = "Elnur";
+           String lastName = "Maharramov";
+           int a = 5;
            String lastName = "Maharramov"
             while (true)
             {
