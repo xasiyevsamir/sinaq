@@ -38,7 +38,8 @@ namespace ConsoleApp5
             Console.WriteLine("samir");
             Console.WriteLine("main branch deyisirik");
             int da=124;
-            int k=22;
+            int k=22;;
+            
         }
     }
 }
