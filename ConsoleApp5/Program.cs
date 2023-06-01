@@ -26,6 +26,16 @@ namespace ConsoleApp5
                 }
             }
             Console.WriteLine("samir");
+            Console.WriteLine("samir");
+            
+            Console.WriteLine("samir");
+            Console.WriteLine("main branch deyisirik");
+            Console.WriteLine("main branch deyisirik");
+            Console.WriteLine("main branch deyisirik");
+            Console.WriteLine("main branch deyisirik");
+            Console.WriteLine("main branch deyisirik");
+            Console.WriteLine("main branch deyisirik");
+            
         }
     }
 }
