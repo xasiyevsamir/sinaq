@@ -12,12 +12,12 @@ namespace ConsoleApp5
                 try
                 {
                     data = int.Parse(Console.ReadLine());
+                    Console.WriteLine("salam")
                     break;
                 }
-                catch (Exception )
+                catch (Exception)
                 {
                     Console.WriteLine("duzgun daxil edin !");
-
                 }
             }
         }
