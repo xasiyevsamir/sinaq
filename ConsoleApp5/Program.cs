@@ -8,18 +8,12 @@ namespace ConsoleApp5
         static void Main(string[] args)
         {
            var name = "Elnur";
-           String lastName = "Maharramov"
+           String lastName = "Maharramov";
             while (true)
             {
                 try
                 {
-                    var data = int.Parse(Console.ReadLine());
-                    Console.WriteLine("salam");
-                    Console.ReadLine();
-                    data = int.Parse(Console.ReadLine());
-                    Console.WriteLine("salam");
-                    Console.ReadLine();
-                    data = int.Parse(Console.ReadLine());
+                   var data = int.Parse(Console.ReadLine());
                     Console.WriteLine("salam");
                     Console.ReadLine();
 
