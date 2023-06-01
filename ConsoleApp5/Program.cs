@@ -22,15 +22,32 @@ namespace ConsoleApp5
                     Console.WriteLine("sagol getdik");
 
                     Console.ReadLine();
+                    Console.ReadLine();
+                    Console.ReadLine();
 
                     break;
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("duzgun daxil edin !");
+                     System.Console.WriteLine("saalaaaaamma");
+                     System.Console.WriteLine("saalaaaaamma");
+                     System.Console.WriteLine("saalaaaaamma");
+                     System.Console.WriteLine("saalaaaaamma");
+                     Console.WriteLine("duzgun daxil edin !");
                 }
             }
-            Console.WriteLine("samir");
+            Console.WriteLine("salam");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
+            System.Console.WriteLine("saalaaaaamma");
         }
     }
 }
