@@ -1,4 +1,5 @@
 ﻿using System.Text;
+using System;
 
 namespace ConsoleApp5
 {
@@ -9,6 +10,7 @@ namespace ConsoleApp5
            var name = "Elnur";
            String lastName = "Maharramov";
            int a = 5;
+           String lastName = "Maharramov"
             while (true)
             {
                 try
@@ -22,6 +24,7 @@ namespace ConsoleApp5
                     data = int.Parse(Console.ReadLine());
                     Console.WriteLine("salam");
                     Console.ReadLine();
+
                     break;
                 }
                 catch (Exception)
@@ -29,6 +32,7 @@ namespace ConsoleApp5
                     Console.WriteLine("duzgun daxil edin !");
                 }
             }
+            Console.WriteLine("samir");
         }
     }
 }
